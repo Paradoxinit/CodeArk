@@ -1,0 +1,3 @@
+module sbm {
+	requires junit;
+}

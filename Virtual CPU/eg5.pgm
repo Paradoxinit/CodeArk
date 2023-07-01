@@ -1,0 +1,5 @@
+push 5
+push 55
+add
+pop m0
+exit
